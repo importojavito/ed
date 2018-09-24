@@ -8,3 +8,11 @@ git config --global user.name importojavito
 javseb@PC04:~/ed$ git config --global user.email 1dam.jsanjose@institutoserpis.org
 javseb@PC04:~/ed$ git config --global push.default simple
 
+
+2018-09-24
+En maquina virtual con unbuntu 16.04 Instalamos el jdk de java8:
+ sudo add-apt-repository ppa:webupd8team/java
+ sudo apt-get update
+ sudo apt install oracle-java8-installer
+
+Realizamos HolaMundo.java, compilamos y ejecutamos.
